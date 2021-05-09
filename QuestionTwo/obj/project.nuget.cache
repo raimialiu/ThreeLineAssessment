@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "zNYU4RMTIjgYYqH4RKhuGcwwIPBXCmM5VuVhMesGuDNpFIr2lhUqj4gnkh54YMFzGtlkDNsh8zAki4DYdFLLRA==",
+  "dgSpecHash": "iu/6psMSSECrrg16bXp5ItkeD88It8jFJm5HW2TeNWFal8AuxR7FvXfBWMFmqWEYQ4jGRqajvsTyAhCdnpL6mQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\a241400\\source\\repos\\ThreeLineAssessmentQuestionOne\\QuestionTwo\\QuestionTwo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\a241400\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\a241400\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\a241400\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
+    "C:\\Users\\a241400\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "C:\\Users\\a241400\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "C:\\Users\\a241400\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
+  ],
   "logs": []
 }
