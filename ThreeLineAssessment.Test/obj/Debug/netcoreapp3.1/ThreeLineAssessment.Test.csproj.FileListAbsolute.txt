@@ -105,3 +105,15 @@ C:\Users\a241400\source\repos\ThreeLineAssessmentQuestionOne\ThreeLineAssessment
 C:\Users\a241400\source\repos\ThreeLineAssessmentQuestionOne\ThreeLineAssessment.Test\obj\Debug\netcoreapp3.1\ThreeLineAssessment.Test.dll
 C:\Users\a241400\source\repos\ThreeLineAssessmentQuestionOne\ThreeLineAssessment.Test\obj\Debug\netcoreapp3.1\ThreeLineAssessment.Test.pdb
 C:\Users\a241400\source\repos\ThreeLineAssessmentQuestionOne\ThreeLineAssessment.Test\obj\Debug\netcoreapp3.1\ThreeLineAssessment.Test.genruntimeconfig.cache
+C:\Users\a241400\source\repos\ThreeLineAssessmentQuestionOne\ThreeLineAssessment.Test\bin\Debug\netcoreapp3.1\QuestionTwo.deps.json
+C:\Users\a241400\source\repos\ThreeLineAssessmentQuestionOne\ThreeLineAssessment.Test\bin\Debug\netcoreapp3.1\QuestionTwo.runtimeconfig.json
+C:\Users\a241400\source\repos\ThreeLineAssessmentQuestionOne\ThreeLineAssessment.Test\bin\Debug\netcoreapp3.1\QuestionTwo.runtimeconfig.dev.json
+C:\Users\a241400\source\repos\ThreeLineAssessmentQuestionOne\ThreeLineAssessment.Test\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\a241400\source\repos\ThreeLineAssessmentQuestionOne\ThreeLineAssessment.Test\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\a241400\source\repos\ThreeLineAssessmentQuestionOne\ThreeLineAssessment.Test\bin\Debug\netcoreapp3.1\QuestionTwo.exe
+C:\Users\a241400\source\repos\ThreeLineAssessmentQuestionOne\ThreeLineAssessment.Test\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\a241400\source\repos\ThreeLineAssessmentQuestionOne\ThreeLineAssessment.Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\a241400\source\repos\ThreeLineAssessmentQuestionOne\ThreeLineAssessment.Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\a241400\source\repos\ThreeLineAssessmentQuestionOne\ThreeLineAssessment.Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\a241400\source\repos\ThreeLineAssessmentQuestionOne\ThreeLineAssessment.Test\bin\Debug\netcoreapp3.1\QuestionTwo.dll
+C:\Users\a241400\source\repos\ThreeLineAssessmentQuestionOne\ThreeLineAssessment.Test\bin\Debug\netcoreapp3.1\QuestionTwo.pdb
