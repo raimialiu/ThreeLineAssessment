@@ -23,7 +23,7 @@ namespace QuestionTwo
             services.AddSingleton<ICardService, CardService>();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("Card Verifying Service", new Microsoft.OpenApi.Models.OpenApiInfo()
+                c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo()
                 {
                      Title = "Card Verifying",
                      Version ="v1"
@@ -36,22 +36,35 @@ namespace QuestionTwo
         {
             if (env.IsDevelopment())
             {
-                app.UseDeveloperExceptionPage();
+                
             }
+
+            app.UseDeveloperExceptionPage();
 
             app.UseRouting();
 
-            app.UseSwagger();
-
-            app.UseSwaggerUI(c =>
-            {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "CardAPI");
-            });
+            
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
             });
+
+            try
+            {
+                app.UseSwagger();
+                app.UseSwaggerUI(c =>
+                {
+                    c.SwaggerEndpoint("/v1/swagger.json", "CardAPI");
+                });
+
+            }
+            catch (Exception es)
+            {
+
+                Console.WriteLine(es.Message);
+            }
+            
         }
     }
 }

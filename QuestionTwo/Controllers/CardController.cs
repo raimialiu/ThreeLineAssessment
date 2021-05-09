@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace QuestionTwo.Controllers
 {
-    [Route("card-scheme/verify")]
+    [Route("card-scheme")]
     [ApiController]
     public class CardController : ControllerBase
     {
@@ -20,7 +20,7 @@ namespace QuestionTwo.Controllers
             _authService = authService;
         }
 
-        [Route("{cardPan}")]
+        [Route("verify/{cardPan}")]
         [HttpPost]
         public async Task<IActionResult> VerifyCard([FromRoute]string cardPan, [FromBody] CardDTO d)
         {

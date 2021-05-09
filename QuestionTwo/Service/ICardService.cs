@@ -81,7 +81,7 @@ namespace QuestionTwo.Service
                 return new CardResponse()
                 {
                     success = false,
-                    message = "invalid card scheme"
+                    message = "invalid card scheme, VISA, MASTERCARD, AMEX are valida type"
                 };
             }
 
@@ -94,7 +94,7 @@ namespace QuestionTwo.Service
                 return new CardResponse()
                 {
                     success = false,
-                    message = "invalid card type"
+                    message = "invalid card type, CREDIT, DEBIT etc are valid types"
                 };
             }
 
