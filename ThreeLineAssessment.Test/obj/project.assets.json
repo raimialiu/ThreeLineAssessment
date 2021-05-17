@@ -5984,19 +5984,19 @@
   },
   "packageFolders": {
     "C:\\Users\\a241400\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a241400\\source\\repos\\ThreeLineAssessmentQuestionOne\\ThreeLineAssessment.Test\\ThreeLineAssessment.Test.csproj",
+      "projectUniqueName": "C:\\Users\\a241400\\Desktop\\projects\\ThreeLineAssessment\\ThreeLineAssessment.Test\\ThreeLineAssessment.Test.csproj",
       "projectName": "ThreeLineAssessment.Test",
-      "projectPath": "C:\\Users\\a241400\\source\\repos\\ThreeLineAssessmentQuestionOne\\ThreeLineAssessment.Test\\ThreeLineAssessment.Test.csproj",
+      "projectPath": "C:\\Users\\a241400\\Desktop\\projects\\ThreeLineAssessment\\ThreeLineAssessment.Test\\ThreeLineAssessment.Test.csproj",
       "packagesPath": "C:\\Users\\a241400\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a241400\\source\\repos\\ThreeLineAssessmentQuestionOne\\ThreeLineAssessment.Test\\obj\\",
+      "outputPath": "C:\\Users\\a241400\\Desktop\\projects\\ThreeLineAssessment\\ThreeLineAssessment.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
       ],
       "configFilePaths": [
         "C:\\Users\\a241400\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6008,17 +6008,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://stanbicibtcdev.pkgs.visualstudio.com/_packaging/com.stanbicibtc.dotnet.feed/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\a241400\\source\\repos\\ThreeLineAssessmentQuestionOne\\QuestionTwo\\QuestionTwo.csproj": {
-              "projectPath": "C:\\Users\\a241400\\source\\repos\\ThreeLineAssessmentQuestionOne\\QuestionTwo\\QuestionTwo.csproj"
+            "C:\\Users\\a241400\\Desktop\\projects\\ThreeLineAssessment\\QuestionTwo\\QuestionTwo.csproj": {
+              "projectPath": "C:\\Users\\a241400\\Desktop\\projects\\ThreeLineAssessment\\QuestionTwo\\QuestionTwo.csproj"
             },
-            "C:\\Users\\a241400\\source\\repos\\ThreeLineAssessmentQuestionOne\\ThreeLineAssessmentQuestionOne\\ThreeLineAssessmentQuestionOne.csproj": {
-              "projectPath": "C:\\Users\\a241400\\source\\repos\\ThreeLineAssessmentQuestionOne\\ThreeLineAssessmentQuestionOne\\ThreeLineAssessmentQuestionOne.csproj"
+            "C:\\Users\\a241400\\Desktop\\projects\\ThreeLineAssessment\\ThreeLineAssessmentQuestionOne\\ThreeLineAssessmentQuestionOne.csproj": {
+              "projectPath": "C:\\Users\\a241400\\Desktop\\projects\\ThreeLineAssessment\\ThreeLineAssessmentQuestionOne\\ThreeLineAssessmentQuestionOne.csproj"
             }
           }
         }
@@ -6069,6 +6070,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

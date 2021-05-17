@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a241400\\source\\repos\\ThreeLineAssessmentQuestionOne\\ThreeLineAssessmentQuestionOne\\ThreeLineAssessmentQuestionOne.csproj": {}
+    "C:\\Users\\a241400\\Desktop\\projects\\ThreeLineAssessment\\ThreeLineAssessmentQuestionOne\\ThreeLineAssessmentQuestionOne.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a241400\\source\\repos\\ThreeLineAssessmentQuestionOne\\ThreeLineAssessmentQuestionOne\\ThreeLineAssessmentQuestionOne.csproj": {
+    "C:\\Users\\a241400\\Desktop\\projects\\ThreeLineAssessment\\ThreeLineAssessmentQuestionOne\\ThreeLineAssessmentQuestionOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a241400\\source\\repos\\ThreeLineAssessmentQuestionOne\\ThreeLineAssessmentQuestionOne\\ThreeLineAssessmentQuestionOne.csproj",
+        "projectUniqueName": "C:\\Users\\a241400\\Desktop\\projects\\ThreeLineAssessment\\ThreeLineAssessmentQuestionOne\\ThreeLineAssessmentQuestionOne.csproj",
         "projectName": "ThreeLineAssessmentQuestionOne",
-        "projectPath": "C:\\Users\\a241400\\source\\repos\\ThreeLineAssessmentQuestionOne\\ThreeLineAssessmentQuestionOne\\ThreeLineAssessmentQuestionOne.csproj",
+        "projectPath": "C:\\Users\\a241400\\Desktop\\projects\\ThreeLineAssessment\\ThreeLineAssessmentQuestionOne\\ThreeLineAssessmentQuestionOne.csproj",
         "packagesPath": "C:\\Users\\a241400\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a241400\\source\\repos\\ThreeLineAssessmentQuestionOne\\ThreeLineAssessmentQuestionOne\\obj\\",
+        "outputPath": "C:\\Users\\a241400\\Desktop\\projects\\ThreeLineAssessment\\ThreeLineAssessmentQuestionOne\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
         ],
         "configFilePaths": [
           "C:\\Users\\a241400\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,7 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://stanbicibtcdev.pkgs.visualstudio.com/_packaging/com.stanbicibtc.dotnet.feed/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {

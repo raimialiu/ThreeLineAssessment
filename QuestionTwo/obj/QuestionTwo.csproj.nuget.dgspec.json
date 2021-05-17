@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a241400\\source\\repos\\ThreeLineAssessmentQuestionOne\\QuestionTwo\\QuestionTwo.csproj": {}
+    "C:\\Users\\a241400\\Desktop\\projects\\ThreeLineAssessment\\QuestionTwo\\QuestionTwo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a241400\\source\\repos\\ThreeLineAssessmentQuestionOne\\QuestionTwo\\QuestionTwo.csproj": {
+    "C:\\Users\\a241400\\Desktop\\projects\\ThreeLineAssessment\\QuestionTwo\\QuestionTwo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a241400\\source\\repos\\ThreeLineAssessmentQuestionOne\\QuestionTwo\\QuestionTwo.csproj",
+        "projectUniqueName": "C:\\Users\\a241400\\Desktop\\projects\\ThreeLineAssessment\\QuestionTwo\\QuestionTwo.csproj",
         "projectName": "QuestionTwo",
-        "projectPath": "C:\\Users\\a241400\\source\\repos\\ThreeLineAssessmentQuestionOne\\QuestionTwo\\QuestionTwo.csproj",
+        "projectPath": "C:\\Users\\a241400\\Desktop\\projects\\ThreeLineAssessment\\QuestionTwo\\QuestionTwo.csproj",
         "packagesPath": "C:\\Users\\a241400\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a241400\\source\\repos\\ThreeLineAssessmentQuestionOne\\QuestionTwo\\obj\\",
+        "outputPath": "C:\\Users\\a241400\\Desktop\\projects\\ThreeLineAssessment\\QuestionTwo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
         ],
         "configFilePaths": [
           "C:\\Users\\a241400\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,7 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://stanbicibtcdev.pkgs.visualstudio.com/_packaging/com.stanbicibtc.dotnet.feed/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {

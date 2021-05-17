@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
@@ -40,15 +41,17 @@ namespace QuestionTwo.Service
 
             var hashed_value = ComputeHash(header["appKey"].ToString() + header["timestamp"].ToString());
 
+            Console.WriteLine(hashed_value);
+            Debug.WriteLine(hashed_value);
             if (hashed_value != header["hashed"])
                 return (false, "invalid authorization key");
 
             var authorizationKey = header["authorization"].ToString();
 
-            if(authorizationKey != "3line"+hashed_value)
-            {
-                return (false, "invalid authorization key");
-            }
+            // if(authorizationKey != "3line"+hashed_value)
+            // {
+            //     return (false, "invalid authorization key");
+            // }
 
 
             return (true, "authorization key valid");

@@ -7,7 +7,8 @@ namespace ThreeLineAssessmentQuestionOne
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Assessment.SmallestPositiveInteger(new[] {1,2,3}));
+            var result = Assessment.SmallestPositiveInteger(new[] {2, 3, 7, 6, 8, -1, -10, 15});
+            Console.WriteLine(result);
             Console.ReadLine();
         }
 

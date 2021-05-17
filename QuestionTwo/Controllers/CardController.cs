@@ -21,15 +21,20 @@ namespace QuestionTwo.Controllers
         }
 
         [Route("verify/{cardPan}")]
-        [HttpPost]
-        public async Task<IActionResult> VerifyCard([FromRoute]string cardPan, [FromBody] CardDTO d)
+        [HttpGet]
+        public async Task<IActionResult> VerifyCard([FromRoute]string cardPan)
         {
             var authService = _authService.Validate(Request.Headers);
 
             if (!authService.Item1)
                 return BadRequest(new { success = false, message = authService.Item2 });
 
-
+            CardDTO d = new CardDTO()
+            {
+                Scheme = Scheme.VISA,
+                type = CardType.CREDIT,
+                bank = "AMERICAN ONLINE"
+            };
             var result = _service.VerifyCard(cardPan, d);
 
             if(result != null && result.success)

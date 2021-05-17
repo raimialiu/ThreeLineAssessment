@@ -11,3 +11,16 @@ C:\Users\a241400\source\repos\ThreeLineAssessmentQuestionOne\ThreeLineAssessment
 C:\Users\a241400\source\repos\ThreeLineAssessmentQuestionOne\ThreeLineAssessmentQuestionOne\obj\Debug\netcoreapp3.1\ThreeLineAssessmentQuestionOne.dll
 C:\Users\a241400\source\repos\ThreeLineAssessmentQuestionOne\ThreeLineAssessmentQuestionOne\obj\Debug\netcoreapp3.1\ThreeLineAssessmentQuestionOne.pdb
 C:\Users\a241400\source\repos\ThreeLineAssessmentQuestionOne\ThreeLineAssessmentQuestionOne\obj\Debug\netcoreapp3.1\ThreeLineAssessmentQuestionOne.genruntimeconfig.cache
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\ThreeLineAssessmentQuestionOne\bin\Debug\netcoreapp3.1\ThreeLineAssessmentQuestionOne.exe
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\ThreeLineAssessmentQuestionOne\bin\Debug\netcoreapp3.1\ThreeLineAssessmentQuestionOne.deps.json
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\ThreeLineAssessmentQuestionOne\bin\Debug\netcoreapp3.1\ThreeLineAssessmentQuestionOne.runtimeconfig.json
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\ThreeLineAssessmentQuestionOne\bin\Debug\netcoreapp3.1\ThreeLineAssessmentQuestionOne.runtimeconfig.dev.json
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\ThreeLineAssessmentQuestionOne\bin\Debug\netcoreapp3.1\ThreeLineAssessmentQuestionOne.dll
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\ThreeLineAssessmentQuestionOne\bin\Debug\netcoreapp3.1\ThreeLineAssessmentQuestionOne.pdb
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\ThreeLineAssessmentQuestionOne\obj\Debug\netcoreapp3.1\ThreeLineAssessmentQuestionOne.csprojAssemblyReference.cache
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\ThreeLineAssessmentQuestionOne\obj\Debug\netcoreapp3.1\ThreeLineAssessmentQuestionOne.AssemblyInfoInputs.cache
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\ThreeLineAssessmentQuestionOne\obj\Debug\netcoreapp3.1\ThreeLineAssessmentQuestionOne.AssemblyInfo.cs
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\ThreeLineAssessmentQuestionOne\obj\Debug\netcoreapp3.1\ThreeLineAssessmentQuestionOne.csproj.CoreCompileInputs.cache
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\ThreeLineAssessmentQuestionOne\obj\Debug\netcoreapp3.1\ThreeLineAssessmentQuestionOne.dll
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\ThreeLineAssessmentQuestionOne\obj\Debug\netcoreapp3.1\ThreeLineAssessmentQuestionOne.pdb
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\ThreeLineAssessmentQuestionOne\obj\Debug\netcoreapp3.1\ThreeLineAssessmentQuestionOne.genruntimeconfig.cache
