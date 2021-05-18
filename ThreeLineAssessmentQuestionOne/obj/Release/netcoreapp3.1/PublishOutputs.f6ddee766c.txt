@@ -1,0 +1,5 @@
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\ThreeLineAssessmentQuestionOne\bin\Release\netcoreapp3.1\publish\ThreeLineAssessmentQuestionOne.exe
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\ThreeLineAssessmentQuestionOne\bin\Release\netcoreapp3.1\publish\ThreeLineAssessmentQuestionOne.dll
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\ThreeLineAssessmentQuestionOne\bin\Release\netcoreapp3.1\publish\ThreeLineAssessmentQuestionOne.deps.json
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\ThreeLineAssessmentQuestionOne\bin\Release\netcoreapp3.1\publish\ThreeLineAssessmentQuestionOne.runtimeconfig.json
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\ThreeLineAssessmentQuestionOne\bin\Release\netcoreapp3.1\publish\ThreeLineAssessmentQuestionOne.pdb

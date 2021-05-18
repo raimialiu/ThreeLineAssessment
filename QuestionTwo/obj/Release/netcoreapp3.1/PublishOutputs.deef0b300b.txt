@@ -1,0 +1,11 @@
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\QuestionTwo\bin\Release\netcoreapp3.1\publish\QuestionTwo.exe
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\QuestionTwo\bin\Release\netcoreapp3.1\publish\appsettings.Development.json
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\QuestionTwo\bin\Release\netcoreapp3.1\publish\appsettings.json
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\QuestionTwo\bin\Release\netcoreapp3.1\publish\QuestionTwo.dll
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\QuestionTwo\bin\Release\netcoreapp3.1\publish\QuestionTwo.deps.json
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\QuestionTwo\bin\Release\netcoreapp3.1\publish\QuestionTwo.runtimeconfig.json
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\QuestionTwo\bin\Release\netcoreapp3.1\publish\QuestionTwo.pdb
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\QuestionTwo\bin\Release\netcoreapp3.1\publish\Microsoft.OpenApi.dll
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\QuestionTwo\bin\Release\netcoreapp3.1\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\QuestionTwo\bin\Release\netcoreapp3.1\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\a241400\Desktop\projects\ThreeLineAssessment\QuestionTwo\bin\Release\netcoreapp3.1\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
